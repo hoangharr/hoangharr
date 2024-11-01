@@ -3,5 +3,5 @@
 ## I’m Hoang.
 
 - Currently, I'm working on **GIS web applications** in the office.
-- At home, I am learning data visualization with **D3.js** & **Three.js**.
-- Ask me about anything related to **maps**, their functionalities, and interactions.
+- At home, I am studying **cybersecurity** at home, on the road to work as a DevSecOps engineer.
+- Ask me about anything related to **maps** & **spatial data**, their functionalities, and interactions.
